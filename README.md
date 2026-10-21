@@ -11,5 +11,5 @@ Co-founder & COO at [CheckSig](https://checksig.com), a Milan-based crypto-asset
 ## Get in touch
 
 - Web: [checksig.com](https://checksig.com)
-- LinkedIn: [_add your link_](https://www.linkedin.com/in/paolomazzocchi/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/paolomazzocchi/)
 - PGP key ID: `41AABE3A2396F872` ([public key](https://github.com/pmazzocchi.gpg))
